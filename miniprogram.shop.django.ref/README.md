@@ -2,29 +2,6 @@
   mini-shop-server
 </h1>
 
-<h4 align="center">
-	构建微信小程序(商城)后端
-	<br>🤜基于 Flask 框架🤛
-</h4>
-
-<div align="center">
-  <img alt="img" src="https://ws1.sinaimg.cn/large/006tNbRwly1fx19fcgb2pg308w099kjl.gif" width="550px">
-  <div>
-    <a href="http://server.mini-shop.ivinetrue.com/apidocs/#/" target="__blank">线上 API 文档</a>
-  </div>
-</div>
-
-
-* 借鉴慕课网的[《Python Flask 构建可扩展的 RESTful API》](http://coding.imooc.com/class/220.html)的设计模式
-* 重构慕课网的[《微信小程序商城构建全栈应用》](https://coding.imooc.com/learn/list/97.html)，源项目基于TP5 + MINA框架
-* 本项目的开发环境是 Mac OS，生产环境是 Linux Ubuntu 16.04
-* 感谢慕课网的[七月老师](https://www.imooc.com/t/4294850)，本项目属于他课程思路的复现
-* QQ 交流群 163801325（聊天、斗图、学习、交流，伸手党勿进），欢迎入群一同讨论
-<div align="center">
-  <img alt="img" src="./media/qq_group_qr_code.jpg" width="250px">
-  <div>👆QQ 扫码 👆</div>
-</div>
-
 
 ## 亮点
 - [自动激活](#auto_active)虚拟环境(autoenv)
